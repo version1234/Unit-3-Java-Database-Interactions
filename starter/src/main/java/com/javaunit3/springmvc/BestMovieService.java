@@ -17,7 +17,7 @@ public class BestMovieService {
 
 //    @Autowired
 //    public void setMovie(Movie movie) {
-//        this.movie = movie;
+
 //    }
     public Movie getBestMovie() {
         return movie;
